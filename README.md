@@ -1,2 +1,2 @@
 # Aplicativo-TCC
- Aplicativo em Java desenvolvido no meu Projeto Final de Curso para monitoramento de transformadores de distribuição
+Aplicativo desenvolvido em Java com banco de dados para o meu Projeto Final de Curso de Engenharia Elétrica. Ele permite o monitoramento de transformadores de distribuição de uma concessionária de energia elétrica, mostrando informações de consumidores ligado a cada alimentador, o balanceamento de fases dele, a demanda de carga e outras informações importantes. O objetivo principal dele foi de auxiliar o gerenciamento de rede para evitar a sobrecarga dos equipamentos.
